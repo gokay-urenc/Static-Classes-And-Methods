@@ -1,0 +1,20 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\bin\Debug\Static_Class_ve_Methodlar.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\bin\Debug\Static_Class_ve_Methodlar.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\bin\Debug\Static_Class_ve_Methodlar.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\obj\Debug\Static_Class_ve_Methodlar.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\obj\Debug\Static_Class_ve_Methodlar.Form1.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\obj\Debug\Static_Class_ve_Methodlar.Properties.Resources.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\obj\Debug\Static_Class_ve_Methodlar.csproj.GenerateResource.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\obj\Debug\Static_Class_ve_Methodlar.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\obj\Debug\Static_Class_ve_Methodlar.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\obj\Debug\Static_Class_ve_Methodlar.pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\bin\Debug\Static_Class_ve_Methodlar.exe.config
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\bin\Debug\Static_Class_ve_Methodlar.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\bin\Debug\Static_Class_ve_Methodlar.pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\obj\Debug\Static_Class_ve_Methodlar.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\obj\Debug\Static_Class_ve_Methodlar.Form1.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\obj\Debug\Static_Class_ve_Methodlar.Properties.Resources.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\obj\Debug\Static_Class_ve_Methodlar.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\obj\Debug\Static_Class_ve_Methodlar.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\obj\Debug\Static_Class_ve_Methodlar.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Static_Class_ve_Methodlar\Static_Class_ve_Methodlar\obj\Debug\Static_Class_ve_Methodlar.pdb
